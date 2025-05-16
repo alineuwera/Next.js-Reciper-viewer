@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Pancakes",
+    "slug": "pancakes",
+    "image": "/images/pancake.jpg",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1 tbsp sugar",
+      "2 tsp baking powder",
+      "1 cup milk",
+      "1 egg",
+      "2 tbsp melted butter"
+    ],
+    "steps": [
+      "In a bowl, mix flour, sugar, and baking powder.",
+      "In another bowl, whisk milk, egg, and melted butter.",
+      "Combine wet and dry ingredients, stir until smooth.",
+      "Heat a non-stick pan, pour batter to form pancakes.",
+      "Cook until bubbles form, flip, and cook until golden."
+    ]
+  },
+  {
+    "title": "Pizza",
+    "slug": "pizza",
+    "image": "/images/pizza.jpg",
+    "ingredients": [
+      "1 pizza dough",
+      "1/2 cup tomato sauce",
+      "1 cup mozzarella cheese",
+      "Fresh basil leaves",
+      "1 tbsp olive oil"
+    ],
+    "steps": [
+      "Preheat oven to 475°F (245°C).",
+      "Roll out dough on a floured surface.",
+      "Spread tomato sauce over dough.",
+      "Add mozzarella and basil leaves.",
+      "Drizzle with olive oil, bake for 10-12 minutes."
+    ]
+  }
+]
