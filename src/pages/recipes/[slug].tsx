@@ -64,7 +64,7 @@ export default function RecipePage({ recipe }: RecipePageProps) {
               <ol className="space-y-4 list-decimal">
                 {recipe.steps.map((step, index) => (
                   <li key={index} className="flex">
-                    <span className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-blue-600 text-white font-medium mr-3 shrink-0">
+                    <span className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-yellow-600 text-white font-medium mr-3 shrink-0">
                       {index + 1}
                     </span>
                     <span>{step}</span>

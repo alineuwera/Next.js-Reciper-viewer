@@ -37,5 +37,73 @@
       "Add mozzarella and basil leaves.",
       "Drizzle with olive oil, bake for 10-12 minutes."
     ]
+  },
+   {
+    "title": "Spicy Chicken",
+    "slug": "spicy-chicken",
+    "image": "/images/spicy-chicken.jpg",
+    "ingredients": [
+      "1 whole chicken",
+      "2 tsp paprika",
+      "1 tsp garlic powder",
+      "Salt and pepper to taste"
+    ],
+    "steps": [
+      "Preheat oven to 200°C.",
+      "Season the chicken with spices.",
+      "Bake for 45 minutes or until golden."
+    ]
+  },
+  {
+    "title": "Vegan Pasta",
+    "slug": "vegan-pasta",
+    "image": "/images/vegan-pasta.jpg",
+    "ingredients": [
+      "200g pasta",
+      "1 cup cherry tomatoes",
+      "2 cloves garlic",
+      "Fresh basil leaves"
+    ],
+    "steps": [
+      "Cook pasta according to package instructions.",
+      "Sauté garlic and tomatoes.",
+      "Mix pasta with sauce and garnish with basil."
+    ]
+  },
+  {
+    "title": "Chocolate Cake",
+    "slug": "chocolate-cake",
+    "image": "/images/chocolate-cake.jpg",
+    "ingredients": [
+      "200g flour",
+      "100g cocoa powder",
+      "150g sugar",
+      "2 eggs",
+      "1 cup milk"
+    ],
+    "steps": [
+      "Preheat oven to 180°C.",
+      "Mix dry ingredients together.",
+      "Add wet ingredients and mix well.",
+      "Pour into a pan and bake for 30 minutes."
+    ]
+  },
+   {
+    "title": "Beef Stir Fry",
+    "slug": "beef-stir-fry",
+    "image": "/images/beef-stir-fry.jpg",
+    "ingredients": [
+      "300g beef strips",
+      "1 cup broccoli florets",
+      "1 bell pepper",
+      "2 tbsp soy sauce",
+      "1 tsp sesame oil"
+    ],
+    "steps": [
+      "Heat oil in a pan.",
+      "Stir-fry beef until browned.",
+      "Add vegetables and cook until tender.",
+      "Stir in soy sauce and serve."
+    ]
   }
 ]
