@@ -1,4 +1,4 @@
-export interface Recipe {
+ export interface Recipe {
   title: string;
   slug: string;
   image: string;

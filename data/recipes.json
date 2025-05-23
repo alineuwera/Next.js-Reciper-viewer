@@ -38,7 +38,7 @@
       "Drizzle with olive oil, bake for 10-12 minutes."
     ]
   },
-   {
+  {
     "title": "Spicy Chicken",
     "slug": "spicy-chicken",
     "image": "/images/spicy-chicken.jpg",
@@ -88,10 +88,10 @@
       "Pour into a pan and bake for 30 minutes."
     ]
   },
-   {
+  {
     "title": "Beef Stir Fry",
     "slug": "beef-stir-fry",
-    "image": "/images/beef-stir-fry.jpg",
+    "image": "/images/beef-stir-fry.jpeg",
     "ingredients": [
       "300g beef strips",
       "1 cup broccoli florets",
@@ -104,6 +104,113 @@
       "Stir-fry beef until browned.",
       "Add vegetables and cook until tender.",
       "Stir in soy sauce and serve."
+    ]
+  },
+  {
+    "title": "Omelette",
+    "slug": "omelette",
+    "image": "/images/omelette.jpg",
+    "ingredients": [
+      "3 eggs",
+      "2 tbsp milk",
+      "Salt and pepper to taste",
+      "1 tbsp butter",
+      "Chopped herbs (optional)"
+    ],
+    "steps": [
+      "Beat the eggs with milk, salt, and pepper.",
+      "Heat butter in a non-stick pan.",
+      "Pour the egg mixture and cook on medium heat.",
+      "When set, fold the omelette and serve with herbs."
+    ]
+  },
+  {
+    "title": "Galette",
+    "slug": "galette",
+    "image": "/images/galette.jpg",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1/2 cup cold butter",
+      "1/4 cup cold water",
+      "1 cup mixed fruits or vegetables",
+      "1 egg (for egg wash)"
+    ],
+    "steps": [
+      "In a bowl, mix flour and cold butter until crumbly.",
+      "Add cold water and form a dough, chill for 30 minutes.",
+      "Roll dough into a circle and place filling in the center.",
+      "Fold edges over filling, leaving the center exposed.",
+      "Brush crust with beaten egg and bake at 200°C for 30 minutes."
+    ]
+  },
+   {
+    "title": "Avocado Toast",
+    "slug": "avocado-toast",
+    "image": "/images/avocado-toast.jpg",
+    "ingredients": [
+      "2 slices of bread",
+      "1 ripe avocado",
+      "1 tsp lemon juice",
+      "Salt and pepper to taste",
+      "Chili flakes (optional)"
+    ],
+    "steps": [
+      "Toast the bread slices.",
+      "Mash avocado with lemon juice, salt, and pepper.",
+      "Spread avocado mixture over toast.",
+      "Sprinkle with chili flakes if desired."
+    ]
+  },
+  {
+    "title": "Mango Smoothie",
+    "slug": "mango-smoothie",
+    "image": "/images/mango-smoothie.jpg",
+    "ingredients": [
+      "1 ripe mango",
+      "1 cup yogurt",
+      "1/2 cup milk",
+      "1 tbsp honey",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Peel and chop the mango.",
+      "Blend mango, yogurt, milk, honey, and ice cubes until smooth.",
+      "Pour into glasses and serve chilled."
+    ]
+  },
+  {
+    "title": "Chocolate Chip Cookies",
+    "slug": "chocolate-chip-cookies",
+    "image": "/images/chocolate-chip-cookies.jpeg",
+    "ingredients": [
+      "1 cup butter",
+      "1 cup sugar",
+      "2 cups flour",
+      "1 cup chocolate chips",
+      "1 egg"
+    ],
+    "steps": [
+      "Preheat oven to 180°C.",
+      "Cream butter and sugar together.",
+      "Add egg and mix well.",
+      "Stir in flour and chocolate chips.",
+      "Drop spoonfuls onto a baking sheet and bake for 10-12 minutes."
+    ]
+  },
+  {
+    "title": "Caesar Salad",
+    "slug": "caesar-salad",
+    "image": "/images/caesar-salad.jpeg",
+    "ingredients": [
+      "2 cups romaine lettuce",
+      "1/2 cup croutons",
+      "1/4 cup grated Parmesan cheese",
+      "2 tbsp Caesar dressing"
+    ],
+    "steps": [
+      "Chop the lettuce and place in a bowl.",
+      "Add croutons and Parmesan cheese.",
+      "Drizzle with Caesar dressing and toss to combine."
     ]
   }
 ]
